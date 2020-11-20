@@ -24,3 +24,4 @@ if (mysqli_query($conn, $sql)) {
   
 mysqli_close($conn);
 ?>
+<center><a href = "index.php"><button type="button" class="btn btn-info">Continue</button></a></center>
